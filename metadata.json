@@ -1,0 +1,6 @@
+{
+  "name": "Apex Football Manager",
+  "description": "The definitive football management simulation game. Build your tactical dynasty, scout global talent, negotiate blockbuster transfers, and lead your club to continental glory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
